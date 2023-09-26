@@ -23,7 +23,7 @@ Currently, I'm working on various web development projects that leverage Microse
 
 I'm always open to discussing new opportunities, collaborating on exciting projects, or just having a friendly chat. Feel free to reach out to me via [email](mailto:uzzalh.cse@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/uzzalh).
 
-## 📈 GitHub Stats
+<!--  ## 📈 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzzalhcse&show_icons=true&hide_title=true)](https://github.com/uzzalhcse)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzzalhcse&show_icons=true&hide_title=true)](https://github.com/uzzalhcse) -->
 🚀
