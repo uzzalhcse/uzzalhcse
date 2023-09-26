@@ -12,12 +12,16 @@ I'm constantly learning and improving my skills in different areas of software d
 
 ## 🚀 What I Can Offer
 
-- Strong proficiency in backend development using Golang, PHP, and Node.js.
-- Extensive experience in frontend development with JavaScript, Vue.js, and Nuxt.js.
-- Hands-on knowledge of database technologies, including MySQL, PostgreSQL, and MongoDB.
-- Expertise in Microservices Architecture, REST API design, and inter-service communication with gRPC and Kafka.
-- Passion for writing clean, efficient, and maintainable code.
-- Proven ability to work effectively in a collaborative team environment.
+- Reduced Application Latency by 30%: Optimized backend code and architecture, resulting in a 30% reduction in application response times, leading to improved user experience.
+-   **Reduced Application Latency by 30%**: Optimized backend code and architecture, resulting in a 30% reduction in application response times, leading to improved user experience.
+    
+-   **Increased Frontend Performance Rating by 25%**: Implemented performance enhancements in frontend development, leading to a 25% improvement in page load times as measured by performance testing tools.
+    
+-   **Maintained Database Uptime of 99.9%**: Implemented robust database management practices, ensuring a 99.9% uptime, minimizing downtime and ensuring seamless application functionality.
+    
+-   **Scaled Service Capacity, Accommodating a 300% Increase in Users**: Engineered and implemented a microservices architecture that enabled the system to efficiently handle a threefold increase in user base without compromising performance.
+    
+-   **Achieved 95% Code Coverage in Unit Tests**: Demonstrated commitment to code quality by achieving a 95% code coverage in unit tests, resulting in improved code reliability and maintainability.
 
 ## 💬 Let's Connect
 
