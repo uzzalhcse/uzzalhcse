@@ -1,14 +1,10 @@
 # Hi there, I'm Uzzal Hosen 👋
 
-I'm an experienced Full Stack Developer with a passion for building scalable and user-centric applications. Constantly exploring modern technologies and best practices, I strive to deliver high-quality solutions that make a positive impact.
+5+ years of experience developing web applications and products, resulting in improved performance, reduced response times by 40%, and increased system capacity by 20%, leading to a more robust and efficient platform. Proficient in Laravel, Go, and Vue.js with experience in microservices architecture
 
 ## 🔭 What I'm Working On
 
 Currently, I'm working on various web development projects that leverage Microservices Architecture, RESTful APIs, and state-of-the-art frontend frameworks like Vue.js and Nuxt.js. I'm always eager to tackle new challenges and contribute to open-source projects.
-
-## 🌱 What I'm Learning
-
-I'm constantly learning and improving my skills in different areas of software development. Currently, I'm focusing on enhancing my expertise in cloud technologies and exploring containerization with Docker and Kubernetes.
 
 ## 🚀 What I Can Offer
 
