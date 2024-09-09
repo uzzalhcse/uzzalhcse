@@ -1,14 +1,20 @@
 # 💫 About Me:
 
-5+ years of experience developing web applications and products, resulting in improved performance, and robust and efficient platform. Proficient in Laravel, Go, and Vue.js with experience in microservices architecture.
+6+ years of experience developing web applications and products, resulting in improved performance, and robust and efficient platform. Proficient in Laravel, Go, and Vue.js with experience in microservices architecture.
 
 ## 🔭 What I'm Working On
 
 Currently, I'm working on various web development projects that leverage Microservices Architecture, RESTful APIs, and state-of-the-art frontend frameworks like Vue.js and Nuxt.js. I'm always eager to tackle new challenges and contribute to open-source projects.
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🔧 Technologies & Tools
 
+![Go](https://img.shields.io/badge/-Go-E5E9F0?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-E5E9F0?style=for-the-badge&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-E5E9F0?style=for-the-badge&logo=laravel)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E5E9F0?style=for-the-badge&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue-E5E9F0?style=for-the-badge&logo=vue.js)
+![Docker](https://img.shields.io/badge/-Docker-E5E9F0?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-E5E9F0?style=for-the-badge&logo=amazonaws)
 ## 🚀 What I Can Offer
 
 - Reduced Application Latency by 30%: Optimized backend code and architecture, resulting in a 30% reduction in application response times, leading to improved user experience.
