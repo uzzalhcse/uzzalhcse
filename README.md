@@ -1,32 +1,11 @@
 # 💫 About Me:
+I’m a backend engineer with 7+ years of experience building scalable systems, but over time I’ve found myself drawn to the hardest part of the web — anti-bot systems and detection engineering.
 
-6+ years of experience developing web applications and products, resulting in improved performance, and robust and efficient platform. Proficient in Laravel, Go, and Vue.js with experience in microservices architecture.
+At Venturas Ltd, I lead work around stealth automation and browser infrastructure. I built a custom Chromium-based anti-detect browser with deep fingerprint control (canvas, WebGL, audio, fonts, navigator properties, and more).
+I work closely with CDP internals, browser behavior, and network-level debugging to understand why automation gets flagged — and how to fix it. I’ve spent significant time analyzing and bypassing protections from Cloudflare, Akamai, and DataDome.
 
-## 🔭 What I'm Working On
+What motivates me most is the challenge: when something suddenly breaks, when detection methods change quietly, and when you have to reverse engineer the problem from scratch. I’m also the creator of NinjaCrawler, a Go framework that standardizes crawler development and improves operational efficiency (recognized with MVP Award 2024) I enjoy solving problems that don’t have clear answers — especially the kind that require persistence, experimentation, and deep technical thinking.
 
-Currently, I'm working on various web development projects that leverage Microservices Architecture, RESTful APIs, and state-of-the-art frontend frameworks like Vue.js and Nuxt.js. I'm always eager to tackle new challenges and contribute to open-source projects.
-
-## 🔧 Technologies & Tools
-
-![Go](https://img.shields.io/badge/-Go-E5E9F0?style=for-the-badge&logo=go)
-![Node.js](https://img.shields.io/badge/-Node.js-E5E9F0?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-E5E9F0?style=for-the-badge&logo=laravel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-E5E9F0?style=for-the-badge&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue-E5E9F0?style=for-the-badge&logo=vue.js)
-![Docker](https://img.shields.io/badge/-Docker-E5E9F0?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-E5E9F0?style=for-the-badge&logo=amazonaws)
-## 🚀 What I Can Offer
-
-- Reduced Application Latency by 30%: Optimized backend code and architecture, resulting in a 30% reduction in application response times, leading to improved user experience.
--   **Reduced Application Latency by 30%**: Optimized backend code and architecture, resulting in a 30% reduction in application response times, leading to improved user experience.
-    
--   **Increased Frontend Performance Rating by 25%**: Implemented performance enhancements in frontend development, leading to a 25% improvement in page load times as measured by performance testing tools.
-    
--   **Maintained Database Uptime of 99.9%**: Implemented robust database management practices, ensuring a 99.9% uptime, minimizing downtime and ensuring seamless application functionality.
-    
--   **Scaled Service Capacity, Accommodating a 300% Increase in Users**: Engineered and implemented a microservices architecture that enabled the system to efficiently handle a threefold increase in user base without compromising performance.
-    
--   **Achieved 95% Code Coverage in Unit Tests**: Demonstrated commitment to code quality by achieving a 95% code coverage in unit tests, resulting in improved code reliability and maintainability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzzalh) [![email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:uzzalh.cse@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uzzalh) 
